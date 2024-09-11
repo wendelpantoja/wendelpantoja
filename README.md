@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm Wendel Pantoja, front-end developer jr (loading).</h1>  
+  <h1>Hello, I'm Wendel Pantoja, front-end developer.</h1>  
 </div>
 
 ### Main skills:
